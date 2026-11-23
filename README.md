@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Aldrinxjarot/site-generator-speed/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Aldrinxjarot/site-generator-speed/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+
 # Faster makefun-site
 
 A drop-in replacement for make.fun's makefun-site 1.0.0 static site generator that returns exactly
